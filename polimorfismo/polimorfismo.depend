@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1516803121 source:c:\users\alumno-m.aulab\documents\employee.cpp
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	"employee12.h"
+
+1516806315 c:\users\alumno-m.aulab\documents\employee12.h
+	<string>
+
+1516801276 source:c:\users\alumno-m.aulab\documents\employee2.cpp
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	"employees.h"
+
+1516721216 c:\users\alumno-m.aulab\documents\employees.h
+	<string>
+
+1516806381 source:c:\users\alumno-m.aulab\documents\polimorfismo\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	"employee12.h"
+	"employee3.h"
+
+1516801276 c:\users\alumno-m.aulab\documents\polimorfismo\employee12.h
+	<string>
+
+1516721216 c:\users\alumno-m.aulab\documents\polimorfismo\employee3.h
+	<string>
+	"employee12.h"
+
+1516802452 c:\users\alumno-m.aulab\documents\polimorfismo\baseemployee.cpp
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	"employee3.h"
+
+1516801276 c:\users\alumno-m.aulab\documents\polimorfismo\employee.cpp
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	"employee12.h"
+
+1516803120 source:c:\users\alumno-m.aulab\documents\baseemployee.cpp
+	<iostream>
+	<stdexcept>
+	<iomanip>
+	"employee3.h"
+
+1516806381 c:\users\alumno-m.aulab\documents\employee3.h
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	"employee12.h"
+
